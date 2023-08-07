@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Ola Sou Henrique Marques Atualmente me qualificando em:
+Ola Sou Henrique Marques Atualmente estou me qualificando em:
 
 
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
