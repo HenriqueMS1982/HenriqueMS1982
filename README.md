@@ -9,4 +9,4 @@ Ola Sou Henrique Marques Atualmente me qualificando em:
 Minha Redes Sociais Confira:
 
 <a href="https://www.facebook.com/henrique.marques.16121" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-<a hrfe="https://www.instagram.com/henriquemsilva1982/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
+<a hrfe="https://www.instagram.com/henriquemsilva1982/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
